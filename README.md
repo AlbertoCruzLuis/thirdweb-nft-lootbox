@@ -1,27 +1,38 @@
-# Next.js + Tailwind CSS Example
+# Build a NFT Lootbox with thirdweb - Tutorial
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+Tutorial: https://www.pointer.gg/tutorials/thirdweb-nft-lootbox#welcome-to-nft-lootbox
 
-## Preview
+Dapp: https://thirdweb-nft-lootbox.herokuapp.com/
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+![](assets/NftLootboxWeb.png)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+# Built With
+- [Next.js](https://nextjs.org/)
+- [React.js](https://es.reactjs.org/)
+- [TailwindCss](https://tailwindcss.com/)
+- [thirdweb](https://thirdweb.com/)
 
-## Deploy your own
+## Getting Started
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+### Installation
+1. Clone the repo
+```
+git clone https://github.com/AlbertoCruzLuis/thirdweb-nft-lootbox
+```
+2. Install NPM packages
+```
+npm i
+```
 
 ## How to use
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
+```
+npm run dev
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+## How Deploy to Heroku
+- Tutorial: https://gist.github.com/yektas/4edf3d4753a109852f768c30b4031f88
+- Dapp: https://thirdweb-nft-lootbox.herokuapp.com/
+
+## Contact
+Alberto Cruz Luis - [Web](https://www.albertocruzluis.com/es) - [Twitter](https://twitter.com/AlbertoCruzdev)
